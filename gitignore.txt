@@ -1,0 +1,16 @@
+# Core folders to ignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE/Tools files
+.vs/
+.gradle/
+*.csproj
+*.sln
+*.user
+*.userprefs
